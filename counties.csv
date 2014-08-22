@@ -308,7 +308,7 @@
 10001; Kent County; Delaware
 10003; New Castle County; Delaware
 10005; Sussex County; Delaware
-11001; District of Columbia; District
+11001; District of Columbia; District of Columbia
 12001; Alachua County; Florida
 12003; Baker County; Florida
 12005; Bay County; Florida
@@ -1727,284 +1727,284 @@
 32029; Storey County; Nevada
 32031; Washoe County; Nevada
 32033; White Pine County; Nevada
-33001; Belknap County; New
-33003; Carroll County; New
-33005; Cheshire County; New
-33007; Coos County; New
-33009; Grafton County; New
-33011; Hillsborough County; New
-33013; Merrimack County; New
-33015; Rockingham County; New
-33017; Strafford County; New
-33019; Sullivan County; New
-34001; Atlantic County; New
-34003; Bergen County; New
-34005; Burlington County; New
-34007; Camden County; New
-34009; Cape May County; New
-34011; Cumberland County; New
-34013; Essex County; New
-34015; Gloucester County; New
-34017; Hudson County; New
-34019; Hunterdon County; New
-34021; Mercer County; New
-34023; Middlesex County; New
-34025; Monmouth County; New
-34027; Morris County; New
-34029; Ocean County; New
-34031; Passaic County; New
-34033; Salem County; New
-34035; Somerset County; New
-34037; Sussex County; New
-34039; Union County; New
-34041; Warren County; New
-35001; Bernalillo County; New
-35003; Catron County; New
-35005; Chaves County; New
-35006; Cibola County; New
-35007; Colfax County; New
-35009; Curry County; New
-35011; De Baca County; New
-35013; Dona Ana County; New
-35015; Eddy County; New
-35017; Grant County; New
-35019; Guadalupe County; New
-35021; Harding County; New
-35023; Hidalgo County; New
-35025; Lea County; New
-35027; Lincoln County; New
-35028; Los Alamos County; New
-35029; Luna County; New
-35031; McKinley County; New
-35033; Mora County; New
-35035; Otero County; New
-35037; Quay County; New
-35039; Rio Arriba County; New
-35041; Roosevelt County; New
-35043; Sandoval County; New
-35045; San Juan County; New
-35047; San Miguel County; New
-35049; Santa Fe County; New
-35051; Sierra County; New
-35053; Socorro County; New
-35055; Taos County; New
-35057; Torrance County; New
-35059; Union County; New
-35061; Valencia County; New
-36001; Albany County; New
-36003; Allegany County; New
-36005; Bronx County; New
-36007; Broome County; New
-36009; Cattaraugus County; New
-36011; Cayuga County; New
-36013; Chautauqua County; New
-36015; Chemung County; New
-36017; Chenango County; New
-36019; Clinton County; New
-36021; Columbia County; New
-36023; Cortland County; New
-36025; Delaware County; New
-36027; Dutchess County; New
-36029; Erie County; New
-36031; Essex County; New
-36033; Franklin County; New
-36035; Fulton County; New
-36037; Genesee County; New
-36039; Greene County; New
-36041; Hamilton County; New
-36043; Herkimer County; New
-36045; Jefferson County; New
-36047; Kings County; New
-36049; Lewis County; New
-36051; Livingston County; New
-36053; Madison County; New
-36055; Monroe County; New
-36057; Montgomery County; New
-36059; Nassau County; New
-36061; New York County; New
-36063; Niagara County; New
-36065; Oneida County; New
-36067; Onondaga County; New
-36069; Ontario County; New
-36071; Orange County; New
-36073; Orleans County; New
-36075; Oswego County; New
-36077; Otsego County; New
-36079; Putnam County; New
-36081; Queens County; New
-36083; Rensselaer County; New
-36085; Richmond County; New
-36087; Rockland County; New
-36091; Saratoga County; New
-36093; Schenectady County; New
-36095; Schoharie County; New
-36097; Schuyler County; New
-36099; Seneca County; New
-36101; Steuben County; New
-36103; Suffolk County; New
-36105; Sullivan County; New
-36107; Tioga County; New
-36109; Tompkins County; New
-36111; Ulster County; New
-36113; Warren County; New
-36115; Washington County; New
-36117; Wayne County; New
-36119; Westchester County; New
-36121; Wyoming County; New
-36123; Yates County; New
-37001; Alamance County; North
-37003; Alexander County; North
-37005; Alleghany County; North
-37007; Anson County; North
-37009; Ashe County; North
-37011; Avery County; North
-37013; Beaufort County; North
-37015; Bertie County; North
-37017; Bladen County; North
-37019; Brunswick County; North
-37021; Buncombe County; North
-37023; Burke County; North
-37025; Cabarrus County; North
-37027; Caldwell County; North
-37029; Camden County; North
-37031; Carteret County; North
-37033; Caswell County; North
-37035; Catawba County; North
-37037; Chatham County; North
-37039; Cherokee County; North
-37041; Chowan County; North
-37043; Clay County; North
-37045; Cleveland County; North
-37047; Columbus County; North
-37049; Craven County; North
-37051; Cumberland County; North
-37053; Currituck County; North
-37055; Dare County; North
-37057; Davidson County; North
-37059; Davie County; North
-37061; Duplin County; North
-37063; Durham County; North
-37065; Edgecombe County; North
-37067; Forsyth County; North
-37069; Franklin County; North
-37071; Gaston County; North
-37073; Gates County; North
-37075; Graham County; North
-37077; Granville County; North
-37079; Greene County; North
-37081; Guilford County; North
-37083; Halifax County; North
-37085; Harnett County; North
-37087; Haywood County; North
-37089; Henderson County; North
-37091; Hertford County; North
-37093; Hoke County; North
-37095; Hyde County; North
-37097; Iredell County; North
-37099; Jackson County; North
-37101; Johnston County; North
-37103; Jones County; North
-37105; Lee County; North
-37107; Lenoir County; North
-37109; Lincoln County; North
-37113; Macon County; North
-37115; Madison County; North
-37117; Martin County; North
-37111; McDowell County; North
-37119; Mecklenburg County; North
-37121; Mitchell County; North
-37123; Montgomery County; North
-37125; Moore County; North
-37127; Nash County; North
-37129; New Hanover County; North
-37131; Northampton County; North
-37133; Onslow County; North
-37135; Orange County; North
-37137; Pamlico County; North
-37139; Pasquotank County; North
-37141; Pender County; North
-37143; Perquimans County; North
-37145; Person County; North
-37147; Pitt County; North
-37149; Polk County; North
-37151; Randolph County; North
-37153; Richmond County; North
-37155; Robeson County; North
-37157; Rockingham County; North
-37159; Rowan County; North
-37161; Rutherford County; North
-37163; Sampson County; North
-37165; Scotland County; North
-37167; Stanly County; North
-37169; Stokes County; North
-37171; Surry County; North
-37173; Swain County; North
-37175; Transylvania County; North
-37177; Tyrrell County; North
-37179; Union County; North
-37181; Vance County; North
-37183; Wake County; North
-37185; Warren County; North
-37187; Washington County; North
-37189; Watauga County; North
-37191; Wayne County; North
-37193; Wilkes County; North
-37195; Wilson County; North
-37197; Yadkin County; North
-37199; Yancey County; North
-38001; Adams County; North
-38003; Barnes County; North
-38005; Benson County; North
-38007; Billings County; North
-38009; Bottineau County; North
-38011; Bowman County; North
-38013; Burke County; North
-38015; Burleigh County; North
-38017; Cass County; North
-38019; Cavalier County; North
-38021; Dickey County; North
-38023; Divide County; North
-38025; Dunn County; North
-38027; Eddy County; North
-38029; Emmons County; North
-38031; Foster County; North
-38033; Golden Valley County; North
-38035; Grand Forks County; North
-38037; Grant County; North
-38039; Griggs County; North
-38041; Hettinger County; North
-38043; Kidder County; North
-38045; LaMoure County; North
-38047; Logan County; North
-38049; McHenry County; North
-38051; McIntosh County; North
-38053; McKenzie County; North
-38055; McLean County; North
-38057; Mercer County; North
-38059; Morton County; North
-38061; Mountrail County; North
-38063; Nelson County; North
-38065; Oliver County; North
-38067; Pembina County; North
-38069; Pierce County; North
-38071; Ramsey County; North
-38073; Ransom County; North
-38075; Renville County; North
-38077; Richland County; North
-38079; Rolette County; North
-38081; Sargent County; North
-38083; Sheridan County; North
-38085; Sioux County; North
-38087; Slope County; North
-38089; Stark County; North
-38091; Steele County; North
-38093; Stutsman County; North
-38095; Towner County; North
-38097; Traill County; North
-38099; Walsh County; North
-38101; Ward County; North
-38103; Wells County; North
-38105; Williams County; North
+33001; Belknap County; New Hampshire
+33003; Carroll County; New Hampshire
+33005; Cheshire County; New Hampshire
+33007; Coos County; New Hampshire
+33009; Grafton County; New Hampshire
+33011; Hillsborough County; New Hampshire
+33013; Merrimack County; New Hampshire
+33015; Rockingham County; New Hampshire
+33017; Strafford County; New Hampshire
+33019; Sullivan County; New Hampshire
+34001; Atlantic County; New Jersey
+34003; Bergen County; New Jersey
+34005; Burlington County; New Jersey
+34007; Camden County; New Jersey
+34009; Cape May County; New Jersey
+34011; Cumberland County; New Jersey
+34013; Essex County; New Jersey
+34015; Gloucester County; New Jersey
+34017; Hudson County; New Jersey
+34019; Hunterdon County; New Jersey
+34021; Mercer County; New Jersey
+34023; Middlesex County; New Jersey
+34025; Monmouth County; New Jersey
+34027; Morris County; New Jersey
+34029; Ocean County; New Jersey
+34031; Passaic County; New Jersey
+34033; Salem County; New Jersey
+34035; Somerset County; New Jersey
+34037; Sussex County; New Jersey
+34039; Union County; New Jersey
+34041; Warren County; New Jersey
+35001; Bernalillo County; New Mexico
+35003; Catron County; New Mexico
+35005; Chaves County; New Mexico
+35006; Cibola County; New Mexico
+35007; Colfax County; New Mexico
+35009; Curry County; New Mexico
+35011; De Baca County; New Mexico
+35013; Dona Ana County; New Mexico
+35015; Eddy County; New Mexico
+35017; Grant County; New Mexico
+35019; Guadalupe County; New Mexico
+35021; Harding County; New Mexico
+35023; Hidalgo County; New Mexico
+35025; Lea County; New Mexico
+35027; Lincoln County; New Mexico
+35028; Los Alamos County; New Mexico
+35029; Luna County; New Mexico
+35031; McKinley County; New Mexico
+35033; Mora County; New Mexico
+35035; Otero County; New Mexico
+35037; Quay County; New Mexico
+35039; Rio Arriba County; New Mexico
+35041; Roosevelt County; New Mexico
+35043; Sandoval County; New Mexico
+35045; San Juan County; New Mexico
+35047; San Miguel County; New Mexico
+35049; Santa Fe County; New Mexico
+35051; Sierra County; New Mexico
+35053; Socorro County; New Mexico
+35055; Taos County; New Mexico
+35057; Torrance County; New Mexico
+35059; Union County; New Mexico
+35061; Valencia County; New Mexico
+36001; Albany County; New York
+36003; Allegany County; New York
+36005; Bronx County; New York
+36007; Broome County; New York
+36009; Cattaraugus County; New York
+36011; Cayuga County; New York
+36013; Chautauqua County; New York
+36015; Chemung County; New York
+36017; Chenango County; New York
+36019; Clinton County; New York
+36021; Columbia County; New York
+36023; Cortland County; New York
+36025; Delaware County; New York
+36027; Dutchess County; New York
+36029; Erie County; New York
+36031; Essex County; New York
+36033; Franklin County; New York
+36035; Fulton County; New York
+36037; Genesee County; New York
+36039; Greene County; New York
+36041; Hamilton County; New York
+36043; Herkimer County; New York
+36045; Jefferson County; New York
+36047; Kings County; New York
+36049; Lewis County; New York
+36051; Livingston County; New York
+36053; Madison County; New York
+36055; Monroe County; New York
+36057; Montgomery County; New York
+36059; Nassau County; New York
+36061; New York County; New York
+36063; Niagara County; New York
+36065; Oneida County; New York
+36067; Onondaga County; New York
+36069; Ontario County; New York
+36071; Orange County; New York
+36073; Orleans County; New York
+36075; Oswego County; New York
+36077; Otsego County; New York
+36079; Putnam County; New York
+36081; Queens County; New York
+36083; Rensselaer County; New York
+36085; Richmond County; New York
+36087; Rockland County; New York
+36091; Saratoga County; New York
+36093; Schenectady County; New York
+36095; Schoharie County; New York
+36097; Schuyler County; New York
+36099; Seneca County; New York
+36101; Steuben County; New York
+36103; Suffolk County; New York
+36105; Sullivan County; New York
+36107; Tioga County; New York
+36109; Tompkins County; New York
+36111; Ulster County; New York
+36113; Warren County; New York
+36115; Washington County; New York
+36117; Wayne County; New York
+36119; Westchester County; New York
+36121; Wyoming County; New York
+36123; Yates County; New York
+37001; Alamance County; North Carolina
+37003; Alexander County; North Carolina
+37005; Alleghany County; North Carolina
+37007; Anson County; North Carolina
+37009; Ashe County; North Carolina
+37011; Avery County; North Carolina
+37013; Beaufort County; North Carolina
+37015; Bertie County; North Carolina
+37017; Bladen County; North Carolina
+37019; Brunswick County; North Carolina
+37021; Buncombe County; North Carolina
+37023; Burke County; North Carolina
+37025; Cabarrus County; North Carolina
+37027; Caldwell County; North Carolina
+37029; Camden County; North Carolina
+37031; Carteret County; North Carolina
+37033; Caswell County; North Carolina
+37035; Catawba County; North Carolina
+37037; Chatham County; North Carolina
+37039; Cherokee County; North Carolina
+37041; Chowan County; North Carolina
+37043; Clay County; North Carolina
+37045; Cleveland County; North Carolina
+37047; Columbus County; North Carolina
+37049; Craven County; North Carolina
+37051; Cumberland County; North Carolina
+37053; Currituck County; North Carolina
+37055; Dare County; North Carolina
+37057; Davidson County; North Carolina
+37059; Davie County; North Carolina
+37061; Duplin County; North Carolina
+37063; Durham County; North Carolina
+37065; Edgecombe County; North Carolina
+37067; Forsyth County; North Carolina
+37069; Franklin County; North Carolina
+37071; Gaston County; North Carolina
+37073; Gates County; North Carolina
+37075; Graham County; North Carolina
+37077; Granville County; North Carolina
+37079; Greene County; North Carolina
+37081; Guilford County; North Carolina
+37083; Halifax County; North Carolina
+37085; Harnett County; North Carolina
+37087; Haywood County; North Carolina
+37089; Henderson County; North Carolina
+37091; Hertford County; North Carolina
+37093; Hoke County; North Carolina
+37095; Hyde County; North Carolina
+37097; Iredell County; North Carolina
+37099; Jackson County; North Carolina
+37101; Johnston County; North Carolina
+37103; Jones County; North Carolina
+37105; Lee County; North Carolina
+37107; Lenoir County; North Carolina
+37109; Lincoln County; North Carolina
+37113; Macon County; North Carolina
+37115; Madison County; North Carolina
+37117; Martin County; North Carolina
+37111; McDowell County; North Carolina
+37119; Mecklenburg County; North Carolina
+37121; Mitchell County; North Carolina
+37123; Montgomery County; North Carolina
+37125; Moore County; North Carolina
+37127; Nash County; North Carolina
+37129; New Hanover County; North Carolina
+37131; Northampton County; North Carolina
+37133; Onslow County; North Carolina
+37135; Orange County; North Carolina
+37137; Pamlico County; North Carolina
+37139; Pasquotank County; North Carolina
+37141; Pender County; North Carolina
+37143; Perquimans County; North Carolina
+37145; Person County; North Carolina
+37147; Pitt County; North Carolina
+37149; Polk County; North Carolina
+37151; Randolph County; North Carolina
+37153; Richmond County; North Carolina
+37155; Robeson County; North Carolina
+37157; Rockingham County; North Carolina
+37159; Rowan County; North Carolina
+37161; Rutherford County; North Carolina
+37163; Sampson County; North Carolina
+37165; Scotland County; North Carolina
+37167; Stanly County; North Carolina
+37169; Stokes County; North Carolina
+37171; Surry County; North Carolina
+37173; Swain County; North Carolina
+37175; Transylvania County; North Carolina
+37177; Tyrrell County; North Carolina
+37179; Union County; North Carolina
+37181; Vance County; North Carolina
+37183; Wake County; North Carolina
+37185; Warren County; North Carolina
+37187; Washington County; North Carolina
+37189; Watauga County; North Carolina
+37191; Wayne County; North Carolina
+37193; Wilkes County; North Carolina
+37195; Wilson County; North Carolina
+37197; Yadkin County; North Carolina
+37199; Yancey County; North Carolina
+38001; Adams County; North Dakota
+38003; Barnes County; North Dakota
+38005; Benson County; North Dakota
+38007; Billings County; North Dakota
+38009; Bottineau County; North Dakota
+38011; Bowman County; North Dakota
+38013; Burke County; North Dakota
+38015; Burleigh County; North Dakota
+38017; Cass County; North Dakota
+38019; Cavalier County; North Dakota
+38021; Dickey County; North Dakota
+38023; Divide County; North Dakota
+38025; Dunn County; North Dakota
+38027; Eddy County; North Dakota
+38029; Emmons County; North Dakota
+38031; Foster County; North Dakota
+38033; Golden Valley County; North Dakota
+38035; Grand Forks County; North Dakota
+38037; Grant County; North Dakota
+38039; Griggs County; North Dakota
+38041; Hettinger County; North Dakota
+38043; Kidder County; North Dakota
+38045; LaMoure County; North Dakota
+38047; Logan County; North Dakota
+38049; McHenry County; North Dakota
+38051; McIntosh County; North Dakota
+38053; McKenzie County; North Dakota
+38055; McLean County; North Dakota
+38057; Mercer County; North Dakota
+38059; Morton County; North Dakota
+38061; Mountrail County; North Dakota
+38063; Nelson County; North Dakota
+38065; Oliver County; North Dakota
+38067; Pembina County; North Dakota
+38069; Pierce County; North Dakota
+38071; Ramsey County; North Dakota
+38073; Ransom County; North Dakota
+38075; Renville County; North Dakota
+38077; Richland County; North Dakota
+38079; Rolette County; North Dakota
+38081; Sargent County; North Dakota
+38083; Sheridan County; North Dakota
+38085; Sioux County; North Dakota
+38087; Slope County; North Dakota
+38089; Stark County; North Dakota
+38091; Steele County; North Dakota
+38093; Stutsman County; North Dakota
+38095; Towner County; North Dakota
+38097; Traill County; North Dakota
+38099; Walsh County; North Dakota
+38101; Ward County; North Dakota
+38103; Wells County; North Dakota
+38105; Williams County; North Dakota
 39001; Adams County; Ohio
 39003; Allen County; Ohio
 39005; Ashland County; Ohio
@@ -2273,123 +2273,123 @@
 42129; Westmoreland County; Pennsylvania
 42131; Wyoming County; Pennsylvania
 42133; York County; Pennsylvania
-44001; Bristol County; Rhode
-44003; Kent County; Rhode
-44005; Newport County; Rhode
-44007; Providence County; Rhode
-44009; Washington County; Rhode
-45001; Abbeville County; South
-45003; Aiken County; South
-45005; Allendale County; South
-45007; Anderson County; South
-45009; Bamberg County; South
-45011; Barnwell County; South
-45013; Beaufort County; South
-45015; Berkeley County; South
-45017; Calhoun County; South
-45019; Charleston County; South
-45021; Cherokee County; South
-45023; Chester County; South
-45025; Chesterfield County; South
-45027; Clarendon County; South
-45029; Colleton County; South
-45031; Darlington County; South
-45033; Dillon County; South
-45035; Dorchester County; South
-45037; Edgefield County; South
-45039; Fairfield County; South
-45041; Florence County; South
-45043; Georgetown County; South
-45045; Greenville County; South
-45047; Greenwood County; South
-45049; Hampton County; South
-45051; Horry County; South
-45053; Jasper County; South
-45055; Kershaw County; South
-45057; Lancaster County; South
-45059; Laurens County; South
-45061; Lee County; South
-45063; Lexington County; South
-45067; Marion County; South
-45069; Marlboro County; South
-45065; McCormick County; South
-45071; Newberry County; South
-45073; Oconee County; South
-45075; Orangeburg County; South
-45077; Pickens County; South
-45079; Richland County; South
-45081; Saluda County; South
-45083; Spartanburg County; South
-45085; Sumter County; South
-45087; Union County; South
-45089; Williamsburg County; South
-45091; York County; South
-46003; Aurora County; South
-46005; Beadle County; South
-46007; Bennett County; South
-46009; Bon Homme County; South
-46011; Brookings County; South
-46013; Brown County; South
-46015; Brule County; South
-46017; Buffalo County; South
-46019; Butte County; South
-46021; Campbell County; South
-46023; Charles Mix County; South
-46025; Clark County; South
-46027; Clay County; South
-46029; Codington County; South
-46031; Corson County; South
-46033; Custer County; South
-46035; Davison County; South
-46037; Day County; South
-46039; Deuel County; South
-46041; Dewey County; South
-46043; Douglas County; South
-46045; Edmunds County; South
-46047; Fall River County; South
-46049; Faulk County; South
-46051; Grant County; South
-46053; Gregory County; South
-46055; Haakon County; South
-46057; Hamlin County; South
-46059; Hand County; South
-46061; Hanson County; South
-46063; Harding County; South
-46065; Hughes County; South
-46067; Hutchinson County; South
-46069; Hyde County; South
-46071; Jackson County; South
-46073; Jerauld County; South
-46075; Jones County; South
-46077; Kingsbury County; South
-46079; Lake County; South
-46081; Lawrence County; South
-46083; Lincoln County; South
-46085; Lyman County; South
-46091; Marshall County; South
-46087; McCook County; South
-46089; McPherson County; South
-46093; Meade County; South
-46095; Mellette County; South
-46097; Miner County; South
-46099; Minnehaha County; South
-46101; Moody County; South
-46103; Pennington County; South
-46105; Perkins County; South
-46107; Potter County; South
-46109; Roberts County; South
-46111; Sanborn County; South
-46113; Shannon County; South
-46115; Spink County; South
-46117; Stanley County; South
-46119; Sully County; South
-46121; Todd County; South
-46123; Tripp County; South
-46125; Turner County; South
-46127; Union County; South
-46129; Walworth County; South
-46135; Yankton County; South
-46137; Ziebach County; South
+44001; Bristol County; Rhode Island
+44003; Kent County; Rhode Island
+44005; Newport County; Rhode Island
+44007; Providence County; Rhode Island
+44009; Washington County; Rhode Island
+45001; Abbeville County; South Carolina
+45003; Aiken County; South Carolina
+45005; Allendale County; South Carolina
+45007; Anderson County; South Carolina
+45009; Bamberg County; South Carolina
+45011; Barnwell County; South Carolina
+45013; Beaufort County; South Carolina
+45015; Berkeley County; South Carolina
+45017; Calhoun County; South Carolina
+45019; Charleston County; South Carolina
+45021; Cherokee County; South Carolina
+45023; Chester County; South Carolina
+45025; Chesterfield County; South Carolina
+45027; Clarendon County; South Carolina
+45029; Colleton County; South Carolina
+45031; Darlington County; South Carolina
+45033; Dillon County; South Carolina
+45035; Dorchester County; South Carolina
+45037; Edgefield County; South Carolina
+45039; Fairfield County; South Carolina
+45041; Florence County; South Carolina
+45043; Georgetown County; South Carolina
+45045; Greenville County; South Carolina
+45047; Greenwood County; South Carolina
+45049; Hampton County; South Carolina
+45051; Horry County; South Carolina
+45053; Jasper County; South Carolina
+45055; Kershaw County; South Carolina
+45057; Lancaster County; South Carolina
+45059; Laurens County; South Carolina
+45061; Lee County; South Carolina
+45063; Lexington County; South Carolina
+45067; Marion County; South Carolina
+45069; Marlboro County; South Carolina
+45065; McCormick County; South Carolina
+45071; Newberry County; South Carolina
+45073; Oconee County; South Carolina
+45075; Orangeburg County; South Carolina
+45077; Pickens County; South Carolina
+45079; Richland County; South Carolina
+45081; Saluda County; South Carolina
+45083; Spartanburg County; South Carolina
+45085; Sumter County; South Carolina
+45087; Union County; South Carolina
+45089; Williamsburg County; South Carolina
+45091; York County; South Carolina
+46003; Aurora County; South Dakota
+46005; Beadle County; South Dakota
+46007; Bennett County; South Dakota
+46009; Bon Homme County; South Dakota
+46011; Brookings County; South Dakota
+46013; Brown County; South Dakota
+46015; Brule County; South Dakota
+46017; Buffalo County; South Dakota
+46019; Butte County; South Dakota
+46021; Campbell County; South Dakota
+46023; Charles Mix County; South Dakota
+46025; Clark County; South Dakota
+46027; Clay County; South Dakota
+46029; Codington County; South Dakota
+46031; Corson County; South Dakota
+46033; Custer County; South Dakota
+46035; Davison County; South Dakota
+46037; Day County; South Dakota
+46039; Deuel County; South Dakota
+46041; Dewey County; South Dakota
+46043; Douglas County; South Dakota
+46045; Edmunds County; South Dakota
+46047; Fall River County; South Dakota
+46049; Faulk County; South Dakota
+46051; Grant County; South Dakota
+46053; Gregory County; South Dakota
+46055; Haakon County; South Dakota
+46057; Hamlin County; South Dakota
+46059; Hand County; South Dakota
+46061; Hanson County; South Dakota
+46063; Harding County; South Dakota
+46065; Hughes County; South Dakota
+46067; Hutchinson County; South Dakota
+46069; Hyde County; South Dakota
+46071; Jackson County; South Dakota
+46073; Jerauld County; South Dakota
+46075; Jones County; South Dakota
+46077; Kingsbury County; South Dakota
+46079; Lake County; South Dakota
+46081; Lawrence County; South Dakota
+46083; Lincoln County; South Dakota
+46085; Lyman County; South Dakota
+46091; Marshall County; South Dakota
+46087; McCook County; South Dakota
+46089; McPherson County; South Dakota
+46093; Meade County; South Dakota
+46095; Mellette County; South Dakota
+46097; Miner County; South Dakota
+46099; Minnehaha County; South Dakota
+46101; Moody County; South Dakota
+46103; Pennington County; South Dakota
+46105; Perkins County; South Dakota
+46107; Potter County; South Dakota
+46109; Roberts County; South Dakota
+46111; Sanborn County; South Dakota
+46113; Shannon County; South Dakota
+46115; Spink County; South Dakota
+46117; Stanley County; South Dakota
+46119; Sully County; South Dakota
+46121; Todd County; South Dakota
+46123; Tripp County; South Dakota
+46125; Turner County; South Dakota
+46127; Union County; South Dakota
+46129; Walworth County; South Dakota
+46135; Yankton County; South Dakota
+46137; Ziebach County; South Dakota
 47001; Anderson County; Tennessee
 47003; Bedford County; Tennessee
 47005; Benton County; Tennessee
@@ -2956,61 +2956,61 @@
 53073; Whatcom County; Washington
 53075; Whitman County; Washington
 53077; Yakima County; Washington
-54001; Barbour County; West
-54003; Berkeley County; West
-54005; Boone County; West
-54007; Braxton County; West
-54009; Brooke County; West
-54011; Cabell County; West
-54013; Calhoun County; West
-54015; Clay County; West
-54017; Doddridge County; West
-54019; Fayette County; West
-54021; Gilmer County; West
-54023; Grant County; West
-54025; Greenbrier County; West
-54027; Hampshire County; West
-54029; Hancock County; West
-54031; Hardy County; West
-54033; Harrison County; West
-54035; Jackson County; West
-54037; Jefferson County; West
-54039; Kanawha County; West
-54041; Lewis County; West
-54043; Lincoln County; West
-54045; Logan County; West
-54049; Marion County; West
-54051; Marshall County; West
-54053; Mason County; West
-54047; McDowell County; West
-54055; Mercer County; West
-54057; Mineral County; West
-54059; Mingo County; West
-54061; Monongalia County; West
-54063; Monroe County; West
-54065; Morgan County; West
-54067; Nicholas County; West
-54069; Ohio County; West
-54071; Pendleton County; West
-54073; Pleasants County; West
-54075; Pocahontas County; West
-54077; Preston County; West
-54079; Putnam County; West
-54081; Raleigh County; West
-54083; Randolph County; West
-54085; Ritchie County; West
-54087; Roane County; West
-54089; Summers County; West
-54091; Taylor County; West
-54093; Tucker County; West
-54095; Tyler County; West
-54097; Upshur County; West
-54099; Wayne County; West
-54101; Webster County; West
-54103; Wetzel County; West
-54105; Wirt County; West
-54107; Wood County; West
-54109; Wyoming County; West
+54001; Barbour County; West Virginia
+54003; Berkeley County; West Virginia
+54005; Boone County; West Virginia
+54007; Braxton County; West Virginia
+54009; Brooke County; West Virginia
+54011; Cabell County; West Virginia
+54013; Calhoun County; West Virginia
+54015; Clay County; West Virginia
+54017; Doddridge County; West Virginia
+54019; Fayette County; West Virginia
+54021; Gilmer County; West Virginia
+54023; Grant County; West Virginia
+54025; Greenbrier County; West Virginia
+54027; Hampshire County; West Virginia
+54029; Hancock County; West Virginia
+54031; Hardy County; West Virginia
+54033; Harrison County; West Virginia
+54035; Jackson County; West Virginia
+54037; Jefferson County; West Virginia
+54039; Kanawha County; West Virginia
+54041; Lewis County; West Virginia
+54043; Lincoln County; West Virginia
+54045; Logan County; West Virginia
+54049; Marion County; West Virginia
+54051; Marshall County; West Virginia
+54053; Mason County; West Virginia
+54047; McDowell County; West Virginia
+54055; Mercer County; West Virginia
+54057; Mineral County; West Virginia
+54059; Mingo County; West Virginia
+54061; Monongalia County; West Virginia
+54063; Monroe County; West Virginia
+54065; Morgan County; West Virginia
+54067; Nicholas County; West Virginia
+54069; Ohio County; West Virginia
+54071; Pendleton County; West Virginia
+54073; Pleasants County; West Virginia
+54075; Pocahontas County; West Virginia
+54077; Preston County; West Virginia
+54079; Putnam County; West Virginia
+54081; Raleigh County; West Virginia
+54083; Randolph County; West Virginia
+54085; Ritchie County; West Virginia
+54087; Roane County; West Virginia
+54089; Summers County; West Virginia
+54091; Taylor County; West Virginia
+54093; Tucker County; West Virginia
+54095; Tyler County; West Virginia
+54097; Upshur County; West Virginia
+54099; Wayne County; West Virginia
+54101; Webster County; West Virginia
+54103; Wetzel County; West Virginia
+54105; Wirt County; West Virginia
+54107; Wood County; West Virginia
+54109; Wyoming County; West Virginia
 55001; Adams County; Wisconsin
 55003; Ashland County; Wisconsin
 55005; Barron County; Wisconsin

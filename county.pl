@@ -30,7 +30,7 @@ for (my $ii = 1; $ii <= 65; $ii++)
 	close $ifile;
 	foreach $thisLine (@fileArray)
 	{#go through the linx dump, gather data
-		if ($thisLine =~ m/Counties and Places in (\w+)/)
+		if ($thisLine =~ m/Counties and Places in ([\w|\s]+)/)
 		{
 			$state = $1;
 		}
