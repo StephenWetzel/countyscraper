@@ -57,6 +57,7 @@
 01111; Randolph County; Alabama
 01113; Russell County; Alabama
 01117; Shelby County; Alabama
+01115; St. Clair County; Alabama
 01119; Sumter County; Alabama
 01121; Talladega County; Alabama
 01123; Tallapoosa County; Alabama
@@ -168,6 +169,7 @@
 05131; Sebastian County; Arkansas
 05133; Sevier County; Arkansas
 05135; Sharp County; Arkansas
+05123; St. Francis County; Arkansas
 05137; Stone County; Arkansas
 05139; Union County; Arkansas
 05141; Van Buren County; Arkansas
@@ -365,6 +367,8 @@
 12113; Santa Rosa County; Florida
 12115; Sarasota County; Florida
 12117; Seminole County; Florida
+12109; St. Johns County; Florida
+12111; St. Lucie County; Florida
 12119; Sumter County; Florida
 12121; Suwannee County; Florida
 12123; Taylor County; Florida
@@ -668,6 +672,7 @@
 17171; Scott County; Illinois
 17173; Shelby County; Illinois
 17175; Stark County; Illinois
+17163; St. Clair County; Illinois
 17177; Stephenson County; Illinois
 17179; Tazewell County; Illinois
 17181; Union County; Illinois
@@ -757,6 +762,7 @@
 18147; Spencer County; Indiana
 18149; Starke County; Indiana
 18151; Steuben County; Indiana
+18141; St. Joseph County; Indiana
 18153; Sullivan County; Indiana
 18155; Switzerland County; Indiana
 18157; Tippecanoe County; Indiana
@@ -1139,6 +1145,15 @@
 22081; Red River Parish; Louisiana
 22083; Richland Parish; Louisiana
 22085; Sabine Parish; Louisiana
+22087; St. Bernard Parish; Louisiana
+22089; St. Charles Parish; Louisiana
+22091; St. Helena Parish; Louisiana
+22093; St. James Parish; Louisiana
+22095; St. John the Baptist Parish; Louisiana
+22097; St. Landry Parish; Louisiana
+22099; St. Martin Parish; Louisiana
+22101; St. Mary Parish; Louisiana
+22103; St. Tammany Parish; Louisiana
 22105; Tangipahoa Parish; Louisiana
 22107; Tensas Parish; Louisiana
 22109; Terrebonne Parish; Louisiana
@@ -1278,6 +1293,8 @@
 26151; Sanilac County; Michigan
 26153; Schoolcraft County; Michigan
 26155; Shiawassee County; Michigan
+26147; St. Clair County; Michigan
+26149; St. Joseph County; Michigan
 26157; Tuscola County; Michigan
 26159; Van Buren County; Michigan
 26161; Washtenaw County; Michigan
@@ -1357,6 +1374,7 @@
 27145; Stearns County; Minnesota
 27147; Steele County; Minnesota
 27149; Stevens County; Minnesota
+27137; St. Louis County; Minnesota
 27151; Swift County; Minnesota
 27153; Todd County; Minnesota
 27155; Traverse County; Minnesota
@@ -1548,6 +1566,12 @@
 29201; Scott County; Missouri
 29203; Shannon County; Missouri
 29205; Shelby County; Missouri
+29183; St. Charles County; Missouri
+29185; St. Clair County; Missouri
+29186; Ste. Genevieve County; Missouri
+29187; St. Francois County; Missouri
+29510; St. Louis city; Missouri
+29189; St. Louis County; Missouri
 29207; Stoddard County; Missouri
 29209; Stone County; Missouri
 29211; Sullivan County; Missouri
@@ -1841,6 +1865,7 @@
 36097; Schuyler County; New York
 36099; Seneca County; New York
 36101; Steuben County; New York
+36089; St. Lawrence County; New York
 36103; Suffolk County; New York
 36105; Sullivan County; New York
 36107; Tioga County; New York
@@ -3070,6 +3095,7 @@
 55113; Sawyer County; Wisconsin
 55115; Shawano County; Wisconsin
 55117; Sheboygan County; Wisconsin
+55109; St. Croix County; Wisconsin
 55119; Taylor County; Wisconsin
 55121; Trempealeau County; Wisconsin
 55123; Vernon County; Wisconsin

@@ -37,7 +37,7 @@ for (my $ii = 1; $ii <= 65; $ii++)
 		
 		
 		#<li><a href="/counties/05013">Calhoun County</a></li>
-		if ($thisLine =~ m/<li><a href="\/counties\/(\d{5})">([\w|\s]+)<\/a>/)
+		if ($thisLine =~ m/<li><a href="\/counties\/(\d{5})">([\.\w\s]+)<\/a>/)
 		{#this line should contain a date
 			print $ofile "\n$1; $2; $state";
 		}
