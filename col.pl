@@ -28,7 +28,7 @@ open my $ifile, '<', $infile;
 close $ifile;
 foreach $thisLine (@fileArray)
 {
-	if ($thisLine =~ m/(\d{5}); ([\.\w\s]+); ([\.\w\s]+)/)
+	if ($thisLine =~ m/(\d{5}); ([\'\-\.\w\s]+); ([\'\-\.\w\s]+)/)
 	{#grab the county info from the input file
 		my $state = $3;
 		chomp($state);
